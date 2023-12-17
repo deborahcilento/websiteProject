@@ -35,3 +35,30 @@ img {
     padding-top: 45px;
 }
 
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-google {
+    background: #e04040;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #1e4f81;
+    color: white;
+  }
+
+  .fa-github {
+    background: #595959;
+    color: white;
+  }
